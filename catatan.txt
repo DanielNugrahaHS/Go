@@ -1,0 +1,7 @@
+Referensi :
+https://tutorialedge.net/golang/go-docker-tutorial/
+
+Catatan :
+- Menambah docker-compose.yml
+- Mengubah image menggunakan golang:1.12.0-apache, dan
+- Menjadi menggunakan apache sebagai web server
